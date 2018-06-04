@@ -1,1 +1,1 @@
-# POC of using mail chimp
+# POC of using mail chimp API
